@@ -6,5 +6,8 @@ A BitCoin miner
 $ git clone https://github.com/SatouOreki/Better-Miner.git
 $ cd Better-Miner
 $ npm i
+```
+## Startup ##
+```bash
 $ npm start
 ```
