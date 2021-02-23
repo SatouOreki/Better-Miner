@@ -1,0 +1,23 @@
+{
+  "name": "better-miner",
+  "version": "1.0.0",
+  "description": "A BitCoin miner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatouOreki/Better-Miner.git"
+  },
+  "author": "SatouOreki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SatouOreki/Better-Miner/issues"
+  },
+  "homepage": "https://github.com/SatouOreki/Better-Miner#readme",
+  "dependencies": {
+    "bitcoin-miner": "^1.2.1"
+  }
+}
